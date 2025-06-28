@@ -1,8 +1,8 @@
 import "./App.css";
-import ParagraphComponent from "./ParagraphComponent.jsx";
-import ListsComponent from "./ListsComponent.jsx";
-import VideoComponent from "./VodeoComponent.jsx";
-import ImageComponent from "./ImageComponent.jsx";
+import ParagraphComponent from "./components/ParagraphsComponent.jsx";
+import ListsComponent from "./components/ListsComponent.jsx";
+import VideoComponent from "./components/VideoComponent.jsx";
+import ImageComponent from "./components/ImageComponent.jsx";
 
 function App() {
   return (

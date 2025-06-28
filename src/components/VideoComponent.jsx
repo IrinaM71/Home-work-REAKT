@@ -1,7 +1,12 @@
 function VideoComponent() {
   return (
     <div className="ImageComponent">
-      <video src="./video.mp4" width="50px" height="50px" controls />
+      <video
+        src="./components/video.mp4"
+        width="250px"
+        height="250px"
+        controls
+      />
     </div>
   );
 }

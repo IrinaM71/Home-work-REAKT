@@ -2,10 +2,10 @@ function ImageComponent() {
   return (
     <img
       className="ImageComponent"
-      src="./foto.jpg"
+      src="./components/foto.jpg"
       alt=""
-      height="50px"
-      width="50px"
+      height="250px"
+      width="250px"
     />
   );
 }
