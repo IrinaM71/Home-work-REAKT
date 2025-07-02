@@ -1,12 +1,14 @@
 function ImageComponent() {
   return (
-    <img
-      className="ImageComponent"
-      src="./components/foto.jpg"
-      alt=""
-      height="250px"
-      width="250px"
-    />
+    <div className="ImageComponent">
+      <img
+        className="ImageComponent"
+        src="./foto.jpg"
+        alt="foto"
+        height="250px"
+        width="250px"
+      />
+    </div>
   );
 }
 
